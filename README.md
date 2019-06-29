@@ -1,6 +1,6 @@
 # Flarum Auth Discord
 
-**Flarum Auth Discord** is a extension for Flarum allow to users to login using a Dicord account.
+**Flarum Auth Discord** is a extension for Flarum allow to users to login using a Discord account.
 
 ## Installation
 

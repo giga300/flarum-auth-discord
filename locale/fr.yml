@@ -1,0 +1,8 @@
+giga300-auth-discord:
+  admin:
+    discord_settings:
+      title: "Paramètres Discord"
+      client_id_label: "Identifiant Client"
+      client_secret_label: "Clé secrète"
+  forum:
+    login_button: "Se connecter avec Discord"

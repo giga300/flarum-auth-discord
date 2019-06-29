@@ -21,6 +21,9 @@ composer require giga300/flarum-auth-discord:dev-master
 - In **Oauth2** menu, add callback URI ``http://{FORUM_URL}/auth/discord``
 - Activate extension in Flarum and set Client ID & Client Secret from Discord Application infos.
 
+## Languages
+Languages availables: english :gb: french :fr:
+
 ## Translate the extension:
 
 If you wants translate **Flarum Auth Discord** it's very simple with Git:

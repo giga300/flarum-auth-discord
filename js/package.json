@@ -3,8 +3,8 @@
   "name": "@giga300/flarum-auth-discord",
   "dependencies": {
     "flarum-webpack-config": "0.1.0-beta.10",
-    "webpack": "^4.26.0",
-    "webpack-cli": "^3.1.2"
+    "webpack": "^5.1.1",
+    "webpack-cli": "^4.0.0"
   },
   "scripts": {
     "dev": "./node_modules/.bin/webpack --mode development --watch",
